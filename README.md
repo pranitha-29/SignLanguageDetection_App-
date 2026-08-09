@@ -69,10 +69,14 @@ Sign Language Detection/
 ├── .gitignore
 ├── requirements.txt
 └── README.md
-Installation
-1. Clone the Repository
+## Installation
+
+### 1. Clone the Repository
+
+```bash
 git clone https://github.com/pranitha-29/SignLanguageDetection_App-.git
 cd SignLanguageDetection_App-
+Installation
 2. Create a Virtual Environment
 python -m venv .venv
 3. Activate the Virtual Environment
